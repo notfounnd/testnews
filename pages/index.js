@@ -1,7 +1,9 @@
-
-
 function Home() {
-    return <h1>Você torna meus dias especiais!</h1>
+  return <h1>Você torna meus dias especiais!</h1>;
 }
 
-export default Home
+function Test() {
+  return 'teste';
+}
+
+export default Home;
